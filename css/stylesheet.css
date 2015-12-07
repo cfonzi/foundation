@@ -1,0 +1,156 @@
+/*
+* {
+    border: 1px solid black;}
+*/
+
+body {
+    margin: 0 auto;
+    background-image: url(background.png);}
+
+img {
+    max-width: 100%;
+    text-align: center;}
+
+h1 {
+    text-align: right; 
+    font-size: 32px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;}
+
+h2 {
+    text-align: left; 
+    font-size: 50px; 
+    font-family: 'Raleway', sans-serif;
+    color: #999CAB;}
+
+p {
+    text-align: right; 
+    font-size: 24px; 
+    font-family: 'Raleway', sans-serif;
+    color: #999CAB;}
+
+/*GRID SIZES*/
+#sizes { 
+    background-color: #A6CFCF;}
+
+/*TITLE*/
+.title {
+    background-color: white;
+    padding: 20px;
+    height: 100px;}
+
+/*STATE LINE SIGNS*/
+.one {
+    background-color: #D6EBFF;
+    padding: 10px;}
+
+.two {
+    background-color: #C2E0FF;
+    padding: 10px;}
+
+.three {
+    background-color: #ADD6FF;
+    padding: 10px;}
+
+.four {
+    background-color: #99CCFF;
+    padding: 10px;}
+
+.five {
+    background-color: #99CCFF;
+    padding: 10px;}
+
+.six {
+    background-color: #7AA3CC;
+    padding: 10px;}
+
+.seven {
+    background-color: #6B8FB2;
+    padding: 10px;}
+
+.eight {
+    background-color: #4C6680;
+    padding: 10px;}
+
+
+/*THE ROUTE/MAP*/
+.nine {
+    background-color: #FFF0FF;
+    height: 400px;
+    padding: 10px;}
+
+.ten {
+    background-color: #FFDBFF;
+    height: 400px;
+    padding: 10px;}
+
+
+/*DO SOME COOL THINGS*/
+.eleven {
+    background-color: #99CCFF; 
+    height: 300px; 
+    padding: 10px;}
+
+.twelve {
+    background-color: #C2E0FF; 
+    height: 300px; 
+    padding: 10px;}
+
+
+/*SEE SOME COOL STUFF*/
+.a {
+    background-color: #8FB28F;
+    padding: 10px;}
+
+.b {
+    background-color: #B8E6B8;
+    padding: 10px;}
+
+.c {
+    background-color: #CCFFCC;
+    padding: 10px;}
+
+.d {
+    background-color: #D6FFD6;
+    padding: 10px;}
+
+.e {
+    background-color: #E0FFE0;
+    padding: 10px;}
+
+.f {
+    background-color: #EBFFEB;
+    padding: 10px;}
+
+
+/*THE BEST PART*/
+.g {
+    background-color: white;}
+
+
+/*END SUNSET AND FANCY NEST*/
+.h {
+    background-color: #D6EBFF;
+    padding: 10px;
+    height: 500px;}
+
+.i {
+    background-color: white; 
+    height: 500px;}
+
+.j {
+    background-color: #DBECEC;
+    padding: 10px;}
+
+.k {
+    background-color: #A6CFCF;
+    height: 150px;
+    padding: 10px;}
+
+.l {
+    background-color: #B8D9D9;
+    height: 150px;
+    padding: 10px;}
+
